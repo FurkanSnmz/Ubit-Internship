@@ -19,6 +19,7 @@ export default {
       showResults : false
     }
   },
+  
   methods: {
     start() {
       this.delay = 2000 + Math.random() * 5000
